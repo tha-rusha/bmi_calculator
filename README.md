@@ -4,7 +4,8 @@
 
 ![Splash Screen](https://github.com/tha-rusha/bmi_calculator/assets/86361836/a1682628-870c-4e7a-bc4d-fb97afc44e21)
 <br>
-Welcome to the BMI Calculator app! This Flutter-based mobile application helps you calculate your Body Mass Index (BMI) and track your fitness progress. It's a simple and user-friendly tool designed to promote a healthier lifestyle.
+<li>
+Welcome to the BMI Calculator app! This Flutter-based mobile application helps you calculate your Body Mass Index (BMI) and track your fitness progress. It's a simple and user-friendly tool designed to promote a healthier lifestyle.</li>
 <br>
 
 ## Getting Started
