@@ -1,6 +1,9 @@
 # BMI Calculator App
 
 A new Flutter project.
+![Splash Screen](https://github.com/tha-rusha/bmi_calculator/assets/86361836/a1682628-870c-4e7a-bc4d-fb97afc44e21)
+
+
 
 ## Getting Started
 
