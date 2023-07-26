@@ -18,8 +18,17 @@ Welcome to the BMI Calculator App! This Flutter-based mobile application helps y
 <li>This project is a starting point for a Flutter application.</li>
 To run the app on your local machine, make sure you have the Flutter SDK installed. Then, follow these steps:
 1. Clone this repository using the following command:
-<h2>git clone https://github.com/your-username/bmi_calculator.git
-</h2>
+<h3>git clone https://github.com/tha-rusha/bmi_calculator.git </h3>
+2. Change into the project directory:
+<h3>cd bmi_calculator </h3>
+3. Install the required packages:
+<h3>flutter pub get </h3>
+4. Run the app:
+<h3>flutter run </h3>
+
+<h1>Screenshots</h1>
+
+
 
 
 </ul>
