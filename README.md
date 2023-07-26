@@ -1,9 +1,7 @@
+![Screenshot_1690357097](https://github.com/tha-rusha/bmi_calculator/assets/86361836/64eaaacc-a061-4764-b037-68a61538330b)
 # BMI Calculator App
 <ul>
-<li>A new Flutter project.</li> <br><br>
-
-![Splash Screen](https://github.com/tha-rusha/bmi_calculator/assets/86361836/a1682628-870c-4e7a-bc4d-fb97afc44e21)
-<br>
+<li>A new Flutter project.</li> <br>
 <li>
 Welcome to the BMI Calculator App! This Flutter-based mobile application helps you calculate your Body Mass Index (BMI) and track your fitness progress. It's a simple and user-friendly tool designed to promote a healthier lifestyle.</li>
 <br>
@@ -26,8 +24,8 @@ To run the app on your local machine, make sure you have the Flutter SDK install
 4. Run the app:
 <h3>flutter run </h3>
 <h1>Screenshots</h1><br>
-
-![Bmi cal Screen](https://github.com/tha-rusha/bmi_calculator/assets/86361836/cc612518-6a14-4f54-bb56-da27577f352c)
-![About](https://github.com/tha-rusha/bmi_calculator/assets/86361836/9991615f-cc4e-4a93-bac2-f56824a9137b)
+![Screenshot_1690357021](https://github.com/tha-rusha/bmi_calculator/assets/86361836/b8479f95-9bde-48db-a22e-0cd4f3722741)
+![Screenshot_1690357063](https://github.com/tha-rusha/bmi_calculator/assets/86361836/4a4d40ab-34a6-4f31-9bbc-34a67ea6a4b4)
+![Screenshot_1690357097](https://github.com/tha-rusha/bmi_calculator/assets/86361836/4571115b-fa1c-4914-bcc5-58c5910d7912)
 
 </ul>
