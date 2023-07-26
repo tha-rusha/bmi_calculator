@@ -7,7 +7,7 @@
 <li>
 Welcome to the BMI Calculator App! This Flutter-based mobile application helps you calculate your Body Mass Index (BMI) and track your fitness progress. It's a simple and user-friendly tool designed to promote a healthier lifestyle.</li>
 <br>
-##Features
+<h1>Features</h1>
 <li>Calculate BMI: Input your height and weight, and the app will calculate your BMI.</li>
 <li>BMI Categories: Get instant feedback on whether you are underweight, normal, overweight, or obese.</li>
 <li>Track Progress: Save your BMI results to monitor your health and fitness journey over time.</li>
