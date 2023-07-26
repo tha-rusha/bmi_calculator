@@ -26,7 +26,8 @@ To run the app on your local machine, make sure you have the Flutter SDK install
 
 ![Splash Screen](https://github.com/tha-rusha/bmi_calculator/assets/86361836/fb732f23-4882-462e-bda3-a0fdb3195b4f)
 ![Bmi cal Screen](https://github.com/tha-rusha/bmi_calculator/assets/86361836/5bac6ed2-a28a-4717-9eaa-447694205cb3)
-![About](https://github.com/tha-rusha/bmi_calculator/assets/86361836/1b158326-783e-4dee-b7d3-aac23848f389)
+![About](https://github.com/tha-rusha/bmi_calculator/assets/86361836/4394099b-9cb5-4689-bbff-80081b0a5edc)
+
 
 </ul>
 <h1><center>Thank You!</center></h1>
